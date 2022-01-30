@@ -1,0 +1,18 @@
+/*
+      BottomNavigationBar(
+        items: [
+          BottomNavigationBarItem(icon: Icon(Icons.home_filled), label: ""),
+          BottomNavigationBarItem(icon: Padding(padding: const EdgeInsets.only(right: 64.0), child: Icon(Icons.search),), label: ""),
+          BottomNavigationBarItem(icon: Padding(padding: const EdgeInsets.only(left: 12.0), child: Icon(Icons.shopping_cart_outlined),), label: ""),
+          BottomNavigationBarItem(icon: Icon(Icons.person_outline_rounded), label: ""),
+        ],
+        currentIndex:  currentIndex,
+        onTap: (index){
+          setState(() {
+            currentIndex = index;
+          });
+        },
+        backgroundColor: Colors.white70,
+        selectedItemColor: mainColor,
+        unselectedItemColor: Colors.grey,
+      ),*/

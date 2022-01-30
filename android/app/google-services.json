@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53935839923",
+    "firebase_url": "https://flutterbootcamp-5f9bc-default-rtdb.firebaseio.com",
+    "project_id": "flutterbootcamp-5f9bc",
+    "storage_bucket": "flutterbootcamp-5f9bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53935839923:android:b86ea2a99db6fd13b36ec6",
+        "android_client_info": {
+          "package_name": "com.example.baran_alhas_flutter_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53935839923-b6hc4dp7n1bqbkevl5dqj07s837sp26m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiu8gMFlmhNRVCtvhhz4yaz192mu6CSPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53935839923-b6hc4dp7n1bqbkevl5dqj07s837sp26m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
